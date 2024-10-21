@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **.NET core**
 
-- 👨‍💻 All of my projects are available at [https://esmael-abdlkadr.vercel.app/](https://esmael-abdlkadr.vercel.app/)
+
 
 - 💬 Ask me about **react.js, ReactNative , Nodejs, Nextjs**
 
